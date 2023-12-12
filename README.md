@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emon Ahmmed</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="emonahmmed" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/emonahmmed](https://github.com/emonahmmed)
 
 - 📝 I regularly write articles on [https://www.budgetbrewer.com/](https://www.budgetbrewer.com/)
 
-- 📫 How to reach me **emonahmmed@budgetbrewer.com**
+- 📫 How to reach me **https://t.me/emonahmmed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
