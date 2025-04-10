@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Emon Ahmmed</h1>
+<h1 align="center">Hi 👋, I'm Emon Ahmmed Nasir</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
 <br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/emonahmmed](https://github.com/emonahmmed)
 
-- 📝 I regularly write articles on [https://www.budgetbrewer.com/](https://www.budgetbrewer.com/)
+- 📝 I regularly write articles on [https://www.fundbind.com/](https://www.fundbind.com/)
 
 - 📫 How to reach me **https://t.me/emonahmmed**
 
